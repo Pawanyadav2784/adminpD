@@ -1,0 +1,10 @@
+# Power Locker - Official Robots.txt
+User-agent: *
+Allow: /
+Allow: /logo.jpeg
+Allow: /favicon.jpeg
+Allow: /assets/
+Disallow: /api/
+Disallow: /uploads/apk/
+
+Sitemap: https://powerlocker.in/sitemap.xml
