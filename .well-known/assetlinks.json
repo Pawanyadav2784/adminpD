@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.powerlocker.retailer",
+      "sha256_cert_fingerprints": [
+        "E2:65:A1:27:F8:AB:35:CB:09:07:3D:62:45:8B:5B:26:8B:4C:28:F7:58:49:E9:4C:7F:87:EB:2C:BA:07:40:8A",
+        "CD:FE:B3:A1:7D:70:8A:55:2E:03:1A:52:AC:E6:5F:E0:EC:44:B3:29:01:0A:BC:2E:C7:9F:D1:73:72:7C:48:5B",
+        "6F:5B:F9:ED:CB:8A:2A:20:75:C7:3B:57:56:AA:15:BF:C5:C0:D4:43:78:8E:14:11:43:7C:40:53:13:46:8F:C9"
+      ]
+    }
+  }
+]
